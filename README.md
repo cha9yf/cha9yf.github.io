@@ -1,11 +1,12 @@
 # Website
 <html>
-<body style="background-color:#33475b">
+
 <head>
   <title>My Favorite Web Page</title>
 </head>
 <body>
-
+  <body style="background-color:#33475b">
+  <body bgcolor="#800000">
   <h1>Welcome to My Web Page</h1>
 
   <p>
