@@ -1,5 +1,6 @@
 # Website
 <html>
+<body style="background-color:#33475b">
 <head>
   <title>My Favorite Web Page</title>
 </head>
