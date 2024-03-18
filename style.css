@@ -5,10 +5,10 @@ h1 {
   text-align: center;
   color: black;
   background-color: red;
-  font-size: xlarge;
+  font-size: xx-large;
 }
 body {
-  font-family: Courier New, monspace;
+  font-family: Courier New, monospace;
   margin-left: 10%;
   margin-right: 10%;
 }
