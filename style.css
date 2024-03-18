@@ -4,7 +4,6 @@ h1 {
   margin-right: 10%;  
   text-align: center;
   color: black;
-  background-color: red;
   font-size: xx-large;
 }
 body {
@@ -13,5 +12,6 @@ body {
   margin-right: 10%;
 }
 p {
-    text-wrap: pretty;  
+  color: black
+  text-wrap: pretty;  
 }
