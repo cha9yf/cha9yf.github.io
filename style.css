@@ -5,6 +5,9 @@ h1 {
   text-align: center;
   color: black;
   font-size: xx-large;
+  border-style: solid;
+  border-width: 0.1em;
+  border-color: black
 }
 body {
   font-family: Courier New, monospace;
@@ -13,5 +16,6 @@ body {
 }
 p {
   color: black
-  text-wrap: pretty;  
+  text-wrap: pretty;
+  text-align: center
 }
