@@ -1,1 +1,14 @@
-
+h1 {
+  font-family: Courier New, monospace
+  margin-left: 10%;
+  margin-right: 10%;  
+  text-align: center
+  color: black;
+  background-color: light gray;
+  font-size: large;
+}
+body {
+  font-family: Courier New, monspace;
+  margin-left: 10%;
+  margin-right: 10%;
+}
